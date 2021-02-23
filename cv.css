@@ -1,0 +1,36 @@
+
+     code {
+        /* code =cible = ttes les balises <code> */
+        color:white; 
+        background-color: #202020;
+    }
+
+    p {
+        background-color: #aaaa;
+        font-size:x-small;
+        background-color: crimson;
+        /* pour détermniner précisemment une taille de police 
+        => font-size: 14px;
+        => ou 2em = il s agit de l espace de 2 caratères
+        => 1em = comme le reste de la page
+        em = unité relative */
+    }
+
+    h1 {
+        color: green;
+    }
+
+    h2{
+        color: rgb(red, green, blue);
+        /* color: rgb(62, 103, 173); */
+        /* 2manières de code couleurs à utiliser: rgb, mot et hexadécimal */
+    }
+
+    body {
+        background-color: #202020;
+        color: whitesmoke;
+    }
+    /* le dernier lu prend le dessus-donc si j ajoute du code style css à un paragraphe dans le body */
+       
+       
+ 
